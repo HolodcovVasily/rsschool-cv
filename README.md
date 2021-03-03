@@ -1,1 +1,1 @@
-https://github.com/HolodcovVasily/rsschool-cv/cv
+https://HolodcovVasily.github.io/rsschool-cv/cv
