@@ -20,7 +20,7 @@
    > have experience working with spreadsheets, spatial databases and the necessary software for business in the field of cadastre and engineering infrastructure.*  
  
 <br/> 9. Skills: programming skills are just being formed  
-<br/> 10. Code examples: -  
+<br/> 10. Code examples: `MyCode: -`  
 <br/> 11. Work experience: 
    > 2010-2012 Belarussian cartographic company/"Белкартография", Minsk, cartographic engineer.  
    > 2013-2018 National Cadastral Agency, Minsk, cadastral engineer.  
