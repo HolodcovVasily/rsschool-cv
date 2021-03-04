@@ -1,6 +1,6 @@
-Name: **Vasili Khaladtsou**/Василий Холодцов
+<br/> Name: **Vasili Khaladtsou**/Василий Холодцов  
 
-Date of birth: The 22th of August 1987
+<br/> Date of birth: The 22th of August 1987  
 
 Address: 119 Bogdachuka St 25, Brest 224017 Belarus
 
