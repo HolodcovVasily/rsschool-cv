@@ -22,8 +22,8 @@
 <br/> 9. Skills: programming skills are just being formed  
 <br/> 10. Code examples: -  
 <br/> 11. Work experience: 
-   > 2010-2012 Belarussian cartographic company/"Белкартография", Minsk, cartographic engineer.
-   > 2013-2018 National Cadastral Agency, Minsk, cadastral engineer. 
+   > 2010-2012 Belarussian cartographic company/"Белкартография", Minsk, cartographic engineer.  
+   > 2013-2018 National Cadastral Agency, Minsk, cadastral engineer.  
    > 2018-until today Brest Agency for State Registration and Land Cadastre, Kobrin, cadastral engineer.  
     
 <br/> 12. Education: 
