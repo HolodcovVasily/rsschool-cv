@@ -1,4 +1,4 @@
-<br/> 1. Name: **Vasili Khaladtsou**/Василий Холодцов ![Photo](‪C:\Users\Dell\Desktop\My_Photo.JPG)  
+<br/> 1. Name: **Vasili Khaladtsou**/Василий Холодцов ![Photo](https://github.com/HolodcovVasily/rsschool-cv/blob/main/My_Photo.JPG)  
 ---
 <br/> 2. Date of birth: The 22th of August 1987  
 <br/> 3. Address: 119 Bogdachuka St 25, Brest 224017 Belarus  
