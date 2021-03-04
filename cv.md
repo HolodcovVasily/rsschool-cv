@@ -13,11 +13,11 @@
    > *To be engage in a really interesting business.*  
 
 <br/> 8. Profile: 
-   > *A well-organized, responsible and responsive job seeker, 
-   > a Graduate of Geodesy and Cartography with good communication and analytical skills, 
-   > aspiring to become a first-class specialist in programming. 
-   > Speaks Russian, Belarusian, English, 
-   > have experience working with spreadsheets, spatial databases and the necessary software for business in the field of cadastre and engineering infrastructure.*  
+   > *A well-organized, responsible and responsive job seeker,* 
+   > *a Graduate of Geodesy and Cartography with good communication and analytical skills,* 
+   > *aspiring to become a first-class specialist in programming.* 
+   > *Speaks Russian, Belarusian, English,* 
+   > *have experience working with spreadsheets, spatial databases and the necessary software for business in the field of cadastre and engineering infrastructure.*  
  
 <br/> 9. Skills: programming skills are just being formed  
 <br/> 10. Code examples: -  
