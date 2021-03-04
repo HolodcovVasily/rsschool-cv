@@ -7,7 +7,7 @@
 <br/> 6. Email: 
    > vasil.holodcov@gmail.com  
    > [Instagram](https://www.instagram.com/vasil1987/ "vasil1987")  
-   > [VK] (vk.com/holodcoff "holodcoff")  
+   > [VK](vk.com/holodcoff "holodcoff")  
  
 <br/> 7. Objective: 
    > *I would like to learn programming and become a great JS-developer in the future.*  
