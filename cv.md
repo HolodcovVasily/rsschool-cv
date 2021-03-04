@@ -4,7 +4,10 @@
 <br/> 3. Address: 119 Bogdachuka St 25, Brest 224017 Belarus  
 <br/> 4. Mobile: +375259070283  
 <br/> 5. Nationality: Belarussian  
-<br/> 6. Email: vasil.holodcov@gmail.com  
+<br/> 6. Email: 
+   > vasil.holodcov@gmail.com  
+   > [Instagram](https://www.instagram.com/vasil1987/)  
+
 <br/> 7. Objective: 
    > I would like to learn programming and become a great JS-developer in the future.  
    > To be engage in a really interesting business.  
